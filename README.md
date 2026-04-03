@@ -1,5 +1,7 @@
 <h1 align="center">💸 Wallet - Expense Tracker with React Native & Express 🚀</h1>
 
+---
+
 ## 📱 App Screenshots
 
 <p align="center">
@@ -13,6 +15,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1fcNDDnG8cvcLvsIv-ery0PDUfyr1Fhu8" width="200"/>
   <img src="https://drive.google.com/uc?export=view&id=1PgG4ooh_5-sd7d_2m7G0wgLYVJDThY6a" width="200"/>
 </p>
+
 ---
 
 ## 🎯 What You'll Build
@@ -30,15 +33,6 @@ This isn't just a front-end app — it's a **complete mobile application** with 
 - 🔄 **Pull to refresh** functionality from scratch
 - 🗑️ **Delete transactions** to update balance
 - 🚪 **Logout** to navigate back to login screen
-
----
-
-## 📱 App Screenshots
-
-### 🔐 App Preview
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=15hiJGwO-olEd8kqkPlBn8r9jZcZpVTar" width="300"/>
-</p>
 
 ---
 
