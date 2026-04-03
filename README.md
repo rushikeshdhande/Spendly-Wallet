@@ -1,8 +1,17 @@
 <h1 align="center">💸 Wallet - Expense Tracker with React Native & Express 🚀</h1>
 
+## 📱 App Screenshots
+
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1qebAAj_GmFY2OiYCQyNmJ0S7CaXVVGRN" width="250"style="margin-right: 10px;"/>
-  <img src="https://drive.google.com/uc?export=view&id=15hiJGwO-olEd8kqkPlBn8r9jZcZpVTar" width="250" />
+  <img src="https://drive.google.com/uc?export=view&id=15hiJGwO-olEd8kqkPlBn8r9jZcZpVTar" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=1qebAAj_GmFY2OiYCQyNmJ0S7CaXVVGRN" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=1N3nMpD6Z-Z10RB6iNR0Tza5pWeU9xqfN" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1YiYYHECrINDDaQn6K46UPdYwBZURG7BQ" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=1fcNDDnG8cvcLvsIv-ery0PDUfyr1Fhu8" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=1PgG4ooh_5-sd7d_2m7G0wgLYVJDThY6a" width="200"/>
 </p>
 ---
 
