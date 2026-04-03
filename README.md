@@ -1,5 +1,11 @@
 <h1 align="center">💸 Wallet - Expense Tracker with React Native & Express 🚀</h1>
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=15hiJGwO-olEd8kqkPlBn8r9jZcZpVTar" width="300"/>
+</p>
+
+---
+
 ## 🎯 What You'll Build
 
 This isn't just a front-end app — it's a **complete mobile application** with backend integration, authentication, and cloud-based storage.
@@ -15,6 +21,15 @@ This isn't just a front-end app — it's a **complete mobile application** with 
 - 🔄 **Pull to refresh** functionality from scratch
 - 🗑️ **Delete transactions** to update balance
 - 🚪 **Logout** to navigate back to login screen
+
+---
+
+## 📱 App Screenshots
+
+### 🔐 App Preview
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=15hiJGwO-olEd8kqkPlBn8r9jZcZpVTar" width="300"/>
+</p>
 
 ---
 
@@ -44,27 +59,3 @@ CLERK_SECRET_KEY=<your_clerk_secret_key>
 DATABASE_URL=<your_neon_postgres_connection_url>
 
 REDIS_URL=<your_redis_connection_url>
-```
-
-### ⚙️ Backend (`/backend`)
-
-```bash
-EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=<your_clerk_key>
-```
-
-## ⚙️ Run the backend
-
-```bash
-cd backend
-npm install
-npm run dev
-
-```
-
-## 📱 Run the mobile
-
-```bash
-cd mobile
-npm install
-npx expo start
-```
