@@ -6,7 +6,10 @@ import { StatusBar } from "expo-status-bar";
 
 export default function RootLayout() {
   return (
-    <ClerkProvider tokenCache={tokenCache}>
+    <ClerkProvider 
+      publishableKey="pk_test_dHJ1c3R5LXNoZXBoZXJkLTkzLmNsZXJrLmFjY291bnRzLmRldiQ"
+      tokenCache={tokenCache}
+    >
       <SafeScreen>
         <Slot />
       </SafeScreen>
